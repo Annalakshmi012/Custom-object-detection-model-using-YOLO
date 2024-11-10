@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Turmeric</folder>
+	<filename>t25.jpg</filename>
+	<path>D:\Masala Project\note\1_dataprepration\data_images\Turmeric\t25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>471</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Turmeric</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>3</ymin>
+			<xmax>213</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Garam masala</folder>
+	<filename>g44.jpg</filename>
+	<path>D:\Masala Project\note\1_dataprepration\data_images\Garam masala\g44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Garamasala</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>25</ymin>
+			<xmax>433</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

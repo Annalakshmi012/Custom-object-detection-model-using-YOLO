@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>71-n4fz9n+L._AC_UL640_QL65_.jpg</filename>
+	<path>D:\Masala Project\note\1_dataprepration\data_images\71-n4fz9n+L._AC_UL640_QL65_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>443</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chilli Powder</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>3</ymin>
+			<xmax>443</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+</annotation>

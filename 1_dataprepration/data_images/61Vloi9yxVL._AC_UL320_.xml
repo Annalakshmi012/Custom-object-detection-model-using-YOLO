@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>61Vloi9yxVL._AC_UL320_.jpg</filename>
+	<path>D:\Masala Project\note\1_dataprepration\data_images\61Vloi9yxVL._AC_UL320_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Coffee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>3</ymin>
+			<xmax>175</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>
